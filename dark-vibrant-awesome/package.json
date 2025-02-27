@@ -1,0 +1,33 @@
+{
+    "name": "dark-vibrant-awesome",
+    "displayName": "Dark Vibrant Awesome",
+    "description": "A vibrant, modern dark theme with rich colors inspired by daisyUI",
+    "version": "0.0.1",
+    "publisher": "thezachdrake",
+    "engines": {
+        "vscode": "^1.93.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "vibrant",
+        "colorful",
+        "modern"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Vibrant Awesome",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Vibrant Awesome-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thezachdrake/dark-vibrant-awesome"
+    }
+}
